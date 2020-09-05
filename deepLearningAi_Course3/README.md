@@ -1,2 +1,1 @@
-# DeepLearningAi
-DeepLearningAiProjects
+# DeepLearningAi - Structuring Machine Learning Projects
