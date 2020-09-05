@@ -1,2 +1,1 @@
-# DeepLearningAi
-DeepLearningAiProjects
+# DeepLearningAi - Convolutional Neural Networks
