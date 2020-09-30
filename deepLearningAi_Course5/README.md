@@ -1,1 +1,1 @@
-Homeworks of the course Sequnce Models of Deeplearningai Deeplearning Specilization Course by Andrew NG
+Homeworks of the course Sequence Models of Deeplearningai Deeplearning Specilization Course by Andrew NG
